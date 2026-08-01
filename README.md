@@ -1,6 +1,4 @@
-## HELLO WORLD 🤚
-
-![Profile Me](img/github-header-banner.png)
+<h2 align="center">Hello World 👋</h2>
 
 <h2>Game</h2>
 
